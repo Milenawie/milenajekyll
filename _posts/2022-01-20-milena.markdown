@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Milena's first post!"
+title:  "Funfacts about plants"
 date:   2022-01-20 12:09:40 -0500
 categories: Milena's update
 ---
