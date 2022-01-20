@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-20T12:36:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Milena’s awesome website</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Milena’s first post!</title><link href="http://localhost:4000/milena's/update/2022/01/20/milena.html" rel="alternate" type="text/html" title="Milena’s first post!" /><published>2022-01-20T12:09:40-05:00</published><updated>2022-01-20T12:09:40-05:00</updated><id>http://localhost:4000/milena's/update/2022/01/20/milena</id><content type="html" xml:base="http://localhost:4000/milena's/update/2022/01/20/milena.html"><![CDATA[<p>This is Milena’s first post which can be found on the <code class="highlighter-rouge">_posts</code> directory.</p>
+
+<p>#</p>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="c1">#def print_hi(name)</span>
+<span class="c1">#  puts "Hi, #{name}"</span>
+<span class="c1">#end</span>
+<span class="c1">#print_hi('Tom')</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span>
+<span class="c1">#</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="Milena's" /><category term="update" /><summary type="html"><![CDATA[This is Milena’s first post which can be found on the _posts directory.]]></summary></entry></feed>
