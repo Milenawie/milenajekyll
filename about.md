@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my blog [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my blog! 
+You can visit my Instagram [here](https://www.instagram.com/milena.wnchl)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
