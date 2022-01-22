@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Milena's Second post!"
-date:   2022-01-20 12:09:40 -0500
+title:  "My favourite recipies"
+date:   2022-01-22 12:09:40 -0500
 categories: Milena's second update
 ---
-This is Milena's second post which can be found on the `_posts` directory. 
+
 
 <span style="color:yellow"> It is important to remeber to wash your hands!</span>
 
