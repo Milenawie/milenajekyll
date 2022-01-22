@@ -13,20 +13,24 @@ I used to like my philodendron, or the name most people know marble queen, but n
 But i didn't like how her leaves got smaller and smaller the more she grew.  
 
 ### Funfact number 1.
-* If a plant grows downwards her leaver grow smaller.
+* If a plant grows downwards her leaves grow smaller.
 * If a plant grows upwards her leaves grow bigger.
+
 
 Let that sink in.
 
-I own differnet types of plants, and different sizes. And i can never water them all at the same time.
+
+I own diffrent types of plants, and different sizes. And i can never water them all at the same time.
+
 
 ### Funfact number 2.
 * The smaller the pot the more frequent you need to water your plant.
+
 
 Hope i could amaze you with these facts.
 
 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[My Instagram]: https://instagram/milena.wnchl
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
