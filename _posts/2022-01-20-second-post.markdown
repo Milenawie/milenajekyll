@@ -4,7 +4,7 @@ title:  "My favourite recipies!"
 date:   2022-01-20 12:09:40 -0500
 categories: Milena's second update
 ---
-h2 { background:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.allrecipes.com%2Frecipe%2F234975%2Fgolabki-stuffed-cabbage-rolls%2F&psig=AOvVaw30WHiMM3vhlNXwnQJi-w4h&ust=1642951775353000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCm-L_WxfUCFQAAAAAdAAAAABAD(xx.jpg); }
+
 
 <span style="color:red"> It is important to remeber to wash your hands!</span>
 
