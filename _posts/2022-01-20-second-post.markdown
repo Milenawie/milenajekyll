@@ -6,6 +6,7 @@ categories: Milena's second update
 ---
 This is Milena's second post which can be found on the `_posts` directory. 
 
+<span style="color:blue">some *blue* text</span>
 #{% highlight ruby %}
 #def print_hi(name)
 #  puts "Hi, #{name}"
