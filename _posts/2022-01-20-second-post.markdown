@@ -6,13 +6,11 @@ categories: Milena's second update
 ---
 This is Milena's second post which can be found on the `_posts` directory. 
 
-<span style="color:blue">some *blue* text</span>
+<span style="color:yellow"> It is important to remeber to wash your hands!</span>
+
 #{% highlight ruby %}
-#def print_hi(name)
-#  puts "Hi, #{name}"
-#end
-#print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+My go to recipies:
+1. 
 #{% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
