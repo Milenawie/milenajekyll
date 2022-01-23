@@ -16,6 +16,8 @@ We used to eat it with bread, the poop people style, but you don't have to enjoy
   *I would recommend it tho*
 
 ! [](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgesunderezepte.me%2Fgolabki-polnische-kohlrouladen-mit-tomatensosse%2F&psig=AOvVaw0_kHev92wabjVG3hee5XnB&ust=1643054946297000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICG_OrWyPUCFQAAAAAdAAAAABAD.png)
+
+yes?
 #{% highlight ruby %}
 My go to recipies:
 1. 
