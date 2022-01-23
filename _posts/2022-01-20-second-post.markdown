@@ -17,7 +17,7 @@ We used to eat it with bread, the poop people style, but you don't have to enjoy
   
 #{% highlight ruby %}
 My go to recipie:
-1. ![Golabki-polnische-Kohlrouladen-mit-Tomatensoße](https://user-images.githubusercontent.com/96064736/150696632-a832d259-3b60-49cd-bb1c-633d76691f3e.jpg)
+![Golabki-polnische-Kohlrouladen-mit-Tomatensoße](https://user-images.githubusercontent.com/96064736/150696632-a832d259-3b60-49cd-bb1c-633d76691f3e.jpg)
 
 1. First cook some rice. 
 2. Then you need to boil the cabbage head in a large pot.
