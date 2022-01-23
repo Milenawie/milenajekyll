@@ -13,14 +13,15 @@ It's a slavish dish that i leanred form my mom and she learned it from her mom a
 
 Its essencially a cabbage roll filled with meat and rise serves with a tomato sauce.
 We used to eat it with bread, the poop people style, but you don't have to enjoy it with a slice of bread 
-  * I would recommend it tho*
+  *I would recommend it tho*
 
+! [](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgesunderezepte.me%2Fgolabki-polnische-kohlrouladen-mit-tomatensosse%2F&psig=AOvVaw0_kHev92wabjVG3hee5XnB&ust=1643054946297000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICG_OrWyPUCFQAAAAAdAAAAABAD.png)
 #{% highlight ruby %}
 My go to recipies:
 1. 
 #{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
