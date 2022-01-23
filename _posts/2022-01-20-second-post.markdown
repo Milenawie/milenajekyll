@@ -15,7 +15,7 @@ Its essencially a cabbage roll filled with meat and rise served with a tomato sa
 We used to eat it with bread, the poop people style, but you don't have to enjoy it with a slice of bread. 
   *I would recommend it tho*
   
-#{% highlight ruby %}
+
 My go to recipie:
 ![Golabki-polnische-Kohlrouladen-mit-Tomatensoße](https://user-images.githubusercontent.com/96064736/150696632-a832d259-3b60-49cd-bb1c-633d76691f3e.jpg)
 
@@ -38,7 +38,7 @@ My go to recipie:
 There you have it.
 *easy* 15 steps to the most delicious meal your tastebuds will ever come across.
 Enjoy!
-#{% endhighlight %}
+
 
 
 
