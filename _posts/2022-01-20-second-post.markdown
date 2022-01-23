@@ -9,6 +9,7 @@ categories: Milena's second update
 <span style="color:red"> It is important to remeber to wash your hands!</span>
 
 I am going to start with my ultime favourite dish: Gołąbki
+
 It's a slavish dish that i leanred form my mom and she learned it from her mom and so on.
 
 Its essencially a cabbage roll filled with meat and rise served with a tomato sauce.
