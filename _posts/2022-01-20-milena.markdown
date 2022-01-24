@@ -31,6 +31,6 @@ Hope i could amaze you with these facts.
 
 
 
-[My Instagram]: https://instagram/milena.wnchl
+
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
